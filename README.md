@@ -1,0 +1,2 @@
+# Kodluyoruz-ilk-repo
+ödev
